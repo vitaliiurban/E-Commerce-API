@@ -330,13 +330,13 @@
         "/images/products/headphones/AppleAirPodsMax_2.jpg",
         "/images/products/headphones/AppleAirPodsMax_3.jpg"
       ]
-    }
-     {
+    },
+    {
       "id": 24,
       "title": "Bose QuietComfort",
       "price": 250,
       "description": "Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - White Smoke The perfect balance of quiet, comfort, and sound. Bose uses tiny mics to measure, compare, and react to outside noise, cancelling it with opposite signals. Bluetooth range-up to 9 m (30 feet).",
-      "rating": 4.8,
+      "rating": 4.7,
       "category": "headphones",
       "brand": "Bose",
       "images": [
