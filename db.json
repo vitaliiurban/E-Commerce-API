@@ -1,13 +1,5 @@
 {
-  "categories": [
-    "phones",
-    "laptops",
-    "headphones",
-    "microphones",
-    "tablets",
-    "keyboards",
-    "mouses"
-  ],
+  "categories": ["phones", "laptops", "headphones", "mouses"],
   "products": [
     {
       "id": 1,
@@ -312,9 +304,9 @@
       "category": "headphones",
       "brand": "Apple",
       "images": [
-        "/images/products/headphones/JBLTune510BT_1.jpg",
-        "/images/products/headphones/JBLTune510BT_2.jpg",
-        "/images/products/headphones/JBLTune510BT_3.jpg"
+        "/images/products/headphones/AppleEarPods_1.jpg",
+        "/images/products/headphones/AppleEarPods_2.jpg",
+        "/images/products/headphones/AppleEarPods_3.jpg"
       ]
     },
     {
@@ -343,6 +335,62 @@
         "/images/products/headphones/BoseQuietComfort_1.jpg",
         "/images/products/headphones/BoseQuietComfort_2.jpg",
         "/images/products/headphones/BoseQuietComfort_3.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Logitech G502 Hero",
+      "price": 50,
+      "description": "Logitech G502 Hero High Performance Gaming Mouse Special Edition, Hero 16K Sensor, 16 000 DPI, RGB, Adjustable Weights, 11 Programmable Buttons, On-Board Memory, PC/Mac - Black/White HERO Gaming Sensor: Next generation HERO mouse sensor delivers precision tracking up to 25600 DPI with zero smoothing, filtering or acceleration",
+      "rating": 4.6,
+      "category": "mouses",
+      "brand": "Logitech",
+      "images": [
+        "/images/products/mouses/LogitechG502Hero_1.jpg",
+        "/images/products/mouses/LogitechG502Hero_2.jpg",
+        "/images/products/mouses/LogitechG502Hero_3.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Logitech G403 Hero",
+      "price": 45,
+      "description": "Logitech G403 Hero Wired Gaming Mouse, Hero 16K Sensor, 16000 DPI, RGB Backlit Keys, Adjustable Weights, 6 Programmable Buttons, On-Board Memory, Braided Cable, PC/Mac/Laptop - Black Hero 16K sensor: next-generation optical Gaming sensor, with 1: 1 tracking, 400+ IPS and 100 - 16000 Max DPI sensitivity - Plus Zero smoothing, filtering or acceleration",
+      "rating": 4.4,
+      "category": "mouses",
+      "brand": "Logitech",
+      "images": [
+        "/images/products/mouses/LogitechG502Hero_1.jpg",
+        "/images/products/mouses/LogitechG502Hero_2.jpg",
+        "/images/products/mouses/LogitechG502Hero_3.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Razer Basilisk",
+      "price": 85,
+      "description": "Razer Basilisk Gaming Mouse: 16,000 DPI Optical Sensor - Chroma RGB Lighting - 8 Programmable Buttons - Mechanical Switches - Customizable Scroll Resistance - Classic Black High-Precision 16,000 DPI Optical Sensor: Offers on-the-fly sensitivity adjustment through dedicated DPI buttons (reprogrammable) for gaming",
+      "rating": 4.4,
+      "category": "mouses",
+      "brand": "Razer",
+      "images": [
+        "/images/products/mouses/RazerBasilisk_1.jpg",
+        "/images/products/mouses/RazerBasilisk_2.jpg",
+        "/images/products/mouses/RazerBasilisk_3.jpg"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Razer Lancehead",
+      "price": 65,
+      "description": "Razer Lancehead Tournament Edition: 5G Optical Sensor - 16,000 Dpi - On-Board & Cloud Memory - Ambidextrous Gaming Mouse - Gunmetal",
+      "rating": 4.4,
+      "category": "mouses",
+      "brand": "Razer",
+      "images": [
+        "/images/products/mouses/RazerLancehead_1.jpg",
+        "/images/products/mouses/RazerLancehead_2.jpg",
+        "/images/products/mouses/RazerLancehead_3.jpg"
       ]
     }
   ]
