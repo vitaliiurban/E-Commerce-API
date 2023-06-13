@@ -176,6 +176,34 @@
         "/images/products/phones/google/GooglePixel6Pro256gb_2.webp",
         "/images/products/phones/google/GooglePixel6Pro256gb_3.webp"
       ]
+    },
+    {
+      "id": 13,
+      "title": "ANMESC Laptop, 15.6",
+      "price": 4.5,
+      "description": "ANMESC Laptop, 15.6 1080P Full HD Display High Performance Quad-Core Intel Celeron N5095 Processors 12GB DDR4 512GB SSD Windows 11 Laptop Computers, 2.4G/5G WiFi, Bluetooth 4.2, Long Battery Life",
+      "rating": 4.5,
+      "category": "laptops",
+      "brand": "Windows",
+      "images": [
+        "/images/products/laptops/windows/ANMESCLaptop_1.jpg",
+        "/images/products/laptops/windows/ANMESCLaptop_2.jpg",
+        "/images/products/laptops/windows/ANMESCLaptop_3.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "HP Pavilion x360 14",
+      "price": 4.5,
+      "description": "HP Pavilion x360 Convertible 14-inch Laptop, 11th Generation Intel Core i5-1135G7 processor, Iris Xe Graphics, 8GB RAM, 256 GB SSD, Windows 11 Home (14-dw1025nr, Natural silver)",
+      "rating": 4.5,
+      "category": "laptops",
+      "brand": "Windows",
+      "images": [
+        "/images/products/laptops/windows/HPPavilionx360_1.jpg",
+        "/images/products/laptops/windows/HPPavilionx360_2.jpg",
+        "/images/products/laptops/windows/HPPavilionx360_3.jpg"
+      ]
     }
   ]
 }
