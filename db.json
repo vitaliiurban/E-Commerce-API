@@ -288,6 +288,62 @@
         "/images/products/laptops/apple/AppleMacBookProM2_2.jpg",
         "/images/products/laptops/apple/AppleMacBookProM2_3.jpg"
       ]
+    },
+    {
+      "id": 21,
+      "title": "JBL Tune 510BT",
+      "price": 40,
+      "description": "JBL Tune 510BT: Wireless On-Ear Headphones with Purebass Sound - Black The Tune 510BT wireless headphones feature renowned JBL Pure Bass sound, which can be found in the most famous venues all around the world.",
+      "rating": 4.8,
+      "category": "headphones",
+      "brand": "JBL",
+      "images": [
+        "/images/products/headphones/JBLTune510BT_1.jpg",
+        "/images/products/headphones/JBLTune510BT_2.jpg",
+        "/images/products/headphones/JBLTune510BT_3.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Apple EarPods",
+      "price": 15,
+      "description": "Apple EarPods Headphones with Lightning Connector. Microphone with Built-in Remote to Control Music, Phone Calls, and Volume. Wired Earbuds for iPhone",
+      "rating": 4.8,
+      "category": "headphones",
+      "brand": "Apple",
+      "images": [
+        "/images/products/headphones/JBLTune510BT_1.jpg",
+        "/images/products/headphones/JBLTune510BT_2.jpg",
+        "/images/products/headphones/JBLTune510BT_3.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Apple AirPods Max",
+      "price": 450,
+      "description": "Apple AirPods Max Wireless Over-Ear Headphones. Active Noise Cancelling, Transparency Mode, Spatial Audio, Digital Crown for Volume Control. Bluetooth Headphones for iPhone - Silver",
+      "rating": 4.8,
+      "category": "headphones",
+      "brand": "Apple",
+      "images": [
+        "/images/products/headphones/AppleAirPodsMax_1.jpg",
+        "/images/products/headphones/AppleAirPodsMax_2.jpg",
+        "/images/products/headphones/AppleAirPodsMax_3.jpg"
+      ]
+    }
+     {
+      "id": 24,
+      "title": "Bose QuietComfort",
+      "price": 250,
+      "description": "Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones - White Smoke The perfect balance of quiet, comfort, and sound. Bose uses tiny mics to measure, compare, and react to outside noise, cancelling it with opposite signals. Bluetooth range-up to 9 m (30 feet).",
+      "rating": 4.8,
+      "category": "headphones",
+      "brand": "Bose",
+      "images": [
+        "/images/products/headphones/BoseQuietComfort_1.jpg",
+        "/images/products/headphones/BoseQuietComfort_2.jpg",
+        "/images/products/headphones/BoseQuietComfort_3.jpg"
+      ]
     }
   ]
 }
