@@ -180,7 +180,7 @@
     {
       "id": 13,
       "title": "ANMESC Laptop, 15.6",
-      "price": 4.5,
+      "price": 350,
       "description": "ANMESC Laptop, 15.6 1080P Full HD Display High Performance Quad-Core Intel Celeron N5095 Processors 12GB DDR4 512GB SSD Windows 11 Laptop Computers, 2.4G/5G WiFi, Bluetooth 4.2, Long Battery Life",
       "rating": 4.5,
       "category": "laptops",
@@ -194,7 +194,7 @@
     {
       "id": 14,
       "title": "HP Pavilion x360 14",
-      "price": 4.5,
+      "price": 280,
       "description": "HP Pavilion x360 Convertible 14-inch Laptop, 11th Generation Intel Core i5-1135G7 processor, Iris Xe Graphics, 8GB RAM, 256 GB SSD, Windows 11 Home (14-dw1025nr, Natural silver)",
       "rating": 4.5,
       "category": "laptops",
@@ -203,6 +203,90 @@
         "/images/products/laptops/windows/HPPavilionx360_1.jpg",
         "/images/products/laptops/windows/HPPavilionx360_2.jpg",
         "/images/products/laptops/windows/HPPavilionx360_3.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Lenovo Ideapad 3",
+      "price": 420,
+      "description": "Lenovo 2022 Newest Ideapad 3 Laptop, 15.6 HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 256GB PCIe NVMe SSD, HDMI, Webcam, Wi-Fi 5, Bluetooth, Windows 11 Home, Almond",
+      "rating": 4.3,
+      "category": "laptops",
+      "brand": "Windows",
+      "images": [
+        "/images/products/laptops/windows/LenovoIdeaPad3i_1.jpg",
+        "/images/products/laptops/windows/LenovoIdeaPad3i_2.jpg",
+        "/images/products/laptops/windows/LenovoIdeaPad3i_3.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Dell Inspiron 15 ",
+      "price": 400,
+      "description": "Dell 2022 Newest Inspiron 15 Laptop, 15.6 HD Display, Intel Celeron N4020 Processor, 16GB DDR4 RAM, 1TB PCIe SSD, Webcam, HDMI, Wi-Fi, Bluetooth, Windows 11 Home, Black",
+      "rating": 4.1,
+      "category": "laptops",
+      "brand": "Windows",
+      "images": [
+        "/images/products/laptops/windows/DellInspiron15_1.jpg",
+        "/images/products/laptops/windows/DellInspiron15_2.jpg",
+        "/images/products/laptops/windows/DellInspiron15_3.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "HP Premium 14-inch",
+      "price": 300,
+      "description": "HP 2022 Premium 14-inch HD Thin and Light Laptop, Intel Quad-Core Processor, 8GB RAM, 64GB Storage, Long Battery Life, Webcam, Bluetooth, HDMI, Wi-Fi, Rose Gold, Windows 11 + 1 Year Microsoft 365",
+      "rating": 4.1,
+      "category": "laptops",
+      "brand": "Windows",
+      "images": [
+        "/images/products/laptops/windows/HPPremium14_1.jpg",
+        "/images/products/laptops/windows/HPPremium14_2.jpg",
+        "/images/products/laptops/windows/HPPremium14_3.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Apple MacBook Air",
+      "price": 1000,
+      "description": "Apple 2020 MacBook Air Laptop M1 Chip, 13 Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Gray",
+      "rating": 4.8,
+      "category": "laptops",
+      "brand": "Windows",
+      "images": [
+        "/images/products/laptops/apple/AppleMacBookAir_1.jpg",
+        "/images/products/laptops/apple/AppleMacBookAir_2.jpg",
+        "/images/products/laptops/apple/AppleMacBookAir_3.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Apple MacBook Pro",
+      "price": 1300,
+      "description": "Apple 2022 MacBook Pro Laptop with M2 chip: 13-inch Retina Display, 8GB RAM, 256GB ​​​​​​​SSD ​​​​​​​Storage, Touch Bar, Backlit Keyboard, FaceTime HD Camera. Works with iPhone and iPad; Space Gray",
+      "rating": 4.8,
+      "category": "laptops",
+      "brand": "Windows",
+      "images": [
+        "/images/products/laptops/apple/AppleMacBookPro_1.jpg",
+        "/images/products/laptops/apple/AppleMacBookPro_2.jpg",
+        "/images/products/laptops/apple/AppleMacBookPro_3.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Apple MacBook Pro M2",
+      "price": 1300,
+      "description": "Apple 2023 MacBook Pro Laptop M2 Pro chip with 10‑core CPU and 16‑core GPU: 14.2-inch Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage. Works with iPhone/iPad; Space Gray",
+      "rating": 4.8,
+      "category": "laptops",
+      "brand": "Windows",
+      "images": [
+        "/images/products/laptops/apple/AppleMacBookProM2_1.jpg",
+        "/images/products/laptops/apple/AppleMacBookProM2_2.jpg",
+        "/images/products/laptops/apple/AppleMacBookProM2_3.jpg"
       ]
     }
   ]
